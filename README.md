@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://magiccopy.xyz/assets/images/hadder.gif" width="512" /> 
+
 <!--
 **kunalandroid/kunalandroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
